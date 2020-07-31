@@ -14,7 +14,7 @@
  - \+ it can add more crash details using some log entries
  - (*TODO:* check if it's possible to receive notifications if something critical occurs)
 
-## Logs
+## Remote Logs
 
 ### Logentries https://logentries.com
 
